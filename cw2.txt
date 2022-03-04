@@ -1,0 +1,9 @@
+public class Main
+{
+	public static void main(String[] args) {
+		boolean budget = 20>=30;
+     System.out.println("Can I buy the gift: "+budget);
+      budget = 40>=30;
+     System.out.println("Can I buy the gift with 20: "+budget);
+	}
+}
